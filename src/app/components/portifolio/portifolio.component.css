@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+section.container{
+    width: 1200px;
+    height:1200px;
+    margin: auto;
+    margin-top: 60px;
+    border: 1px solid gray;
+    background-color: #F6eee3;
+}
+
+
+
+h1 {
+    Color: #363636;
+    Font-family: Arial, Tahoma;
+    font-size: 70px;
+    font-weight: 600;
+    text-align: center;
+    margin-top:0px;
+    margin-bottom:20px;
+    background-color: #F89352;
+
+
+}
+h2 {
+        background-color: #F89352;
+        margin-top: 100px;
+        Font-family: Arial, Tahoma;
+        font-size: 30px;
+        font-weight: 300;
+        text-align: center;
+
+    }
+.CT{
+    background-color: #F89352;
+    margin-top: 40px;
+    Font-family: Arial, Tahoma;
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+    
+}
+
+.CA{
+    background-color: #F89352;
+    margin-top: 40px;
+    Font-family: Arial, Tahoma;
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+    
+}
+.EP{
+    background-color: #F89352;
+    margin-top: 40px;
+    Font-family: Arial, Tahoma;
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+
+}
+.EA{
+    background-color: #F89352;
+    margin-top: 40px;
+    Font-family: Arial, Tahoma;
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+
+}
+   
+p{
+    margin-top: 40px;
+    Font-family: Arial, Tahoma;
+    Font-size: 20px;
+    font-weight: 200;
+    text-align: center;
+}
+
+ul li{
+    margin-top: 40px;
+    Font-family: Arial, Tahoma;
+    Font-size: 20px;
+    font-weight: 200;
+    margin-left: 460px;
+   
+}
+
